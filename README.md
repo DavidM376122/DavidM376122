@@ -8,10 +8,10 @@ Welcome to my GitHub profile! I'm a passionate **Data Enthusiast** on a journey 
 
 I'm currently honing my skills in the following tools:
 
-- **Excel**: 📊 Excel is my go-to for data wrangling and analysis! I can confidently manipulate data and build powerful models using its advanced features.
-- **Tableau**: 🎨 Tableau allows me to create stunning, interactive dashboards to tell a story with data.
-- **Power BI**: 📈 With Power BI, I turn raw data into insightful, visually appealing reports for effective decision-making.
-- **MySQL**: 🗄️ Querying databases like a pro! MySQL helps me work with structured data to extract meaningful insights.
+- **Excel**: 📊 Excel is what I used for data wrangling and analysis! I can manipulate data and build models using its features.
+- **Tableau**: 🎨 Tableau allows me to create interactive dashboards to tell a story with data.
+- **Power BI**: 📈 With Power BI, I turn raw data into insightful reports for decision-making.
+- **MySQL**: 🗄️ MySQL helps me work with structured data to extract insights.
 - **Azure**: ☁️ Working with Microsoft Azure to implement cloud-based data solutions and scalable applications.
 - **Python**: 🐍 I'm also learning Python for data analysis and automation, because who doesn’t love a bit of Python scripting to make life easier?
 
@@ -19,7 +19,7 @@ I'm currently honing my skills in the following tools:
 
 ### 💪 My Skills:
 
-I’ve developed a strong proficiency in all of the above tools and I am always eager to learn more and apply my knowledge in exciting projects.
+I’ve developed a interest in all of the above tools and I am always eager to learn more and apply my knowledge in exciting projects.
 
 ---
 
